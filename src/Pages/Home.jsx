@@ -15,7 +15,7 @@ function Home() {
           {/* About Section */}
           <div className=" flex flex-wrap gap-10 m-32 ">
 <div className=" ">
-  <img src="/src/assets/about.jpg" alt="" />
+  <img src="about.jpg" alt="" />
 </div>
 <div className="w-1/2 p-7">
   <h1 className="mx-auto justify-center items-center   font-bold text-4xl">About <span className="text-cyan-400">Us</span> </h1>
